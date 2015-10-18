@@ -1,0 +1,1312 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"auto",
+				"autoAlpha"
+			],
+			[
+				"close",
+				"closeItem"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"is",
+				"isServer      (bool) [S]"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"st",
+				"startup                    (fn)   [E]"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"ease",
+				"ease:Bounce"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"mragin",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"cu",
+				"customizer"
+			],
+			[
+				"hel",
+				"helvetica"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"tile",
+				"tileInHandler"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"bord",
+				"border-width"
+			],
+			[
+				"border-ra",
+				"border-radius"
+			],
+			[
+				"eas",
+				"ease-in-out"
+			],
+			[
+				"bo",
+				"border-right"
+			],
+			[
+				"tag",
+				"$tagname〔variable〕"
+			],
+			[
+				"fonty",
+				"font-family"
+			],
+			[
+				"i",
+				"inherit"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"d",
+				"d	display: ${1:block};"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"table",
+				"table-row"
+			],
+			[
+				"your",
+				"youradserver"
+			],
+			[
+				"Entr",
+				"Enterprise"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"Au",
+				"Automatically"
+			],
+			[
+				"contn",
+				"container"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"boe",
+				"border-color"
+			],
+			[
+				"post_type",
+				"$post_type_object〔variable〕"
+			],
+			[
+				"get_category",
+				"get_category_link〔function〕"
+			],
+			[
+				"lin",
+				"linkBefore"
+			],
+			[
+				"hover",
+				"hoverColors"
+			],
+			[
+				"iline",
+				"inline-block"
+			],
+			[
+				"wdi",
+				"width"
+			],
+			[
+				"border-rig",
+				"border-right-color"
+			],
+			[
+				"tabel",
+				"table-cell"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"cur",
+				"currently"
+			],
+			[
+				"Ent",
+				"Enterprise"
+			],
+			[
+				"docu",
+				"documentation"
+			],
+			[
+				"Word",
+				"WordPress"
+			],
+			[
+				"_",
+				"_pageview_count"
+			],
+			[
+				"ad",
+				"ad_units"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"help",
+				"help_1"
+			],
+			[
+				"fad",
+				"fadeOut"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"has",
+				"has_playlists"
+			],
+			[
+				"up",
+				"uploaded"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"add_setting",
+				"add_settings_menu"
+			],
+			[
+				"rem",
+				"removeClass〔function〕"
+			],
+			[
+				"fa",
+				"fadeOut〔function〕"
+			],
+			[
+				"vi",
+				"videoId"
+			],
+			[
+				"first",
+				"first-child〔function〕"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"mouse",
+				"mousein"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"im",
+				"important"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2654,
+				"line_ending": "Unix",
+				"name": "html"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 2182,
+				"line_ending": "Unix",
+				"name": ".shape-1{"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "re",
+		"selected_items":
+		[
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 718.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/arivera/meteor/GSAP",
+		"/Users/arivera/meteor/GSAP/js"
+	],
+	"file_history":
+	[
+		"/Users/arivera/meteor/GSAP/js/scripts.js",
+		"/Users/arivera/meteor/blk/server/server.jsx",
+		"/Users/arivera/meteor/blk/client/router.jsx",
+		"/Users/arivera/meteor/blk/settings.json",
+		"/Users/arivera/meteor/blk/.gitignore",
+		"/Users/arivera/meteor/blk/lib/collection.jsx",
+		"/Users/arivera/meteor/blk/client/components/Other.jsx",
+		"/Users/arivera/meteor/blk/client/components/IonModal.jsx",
+		"/Users/arivera/meteor/blk/.meteor/local/build/programs/server/npm/cosmos_browserify/node_modules/browserify/node_modules/stream-http/test/node/http-browserify.js",
+		"/Users/arivera/meteor/blk/packages.json",
+		"/Users/arivera/meteor/blk/README.md",
+		"/Users/arivera/meteor/blk/terminal.glue",
+		"/Users/arivera/meteor/blk/client/terminal.glue",
+		"/Users/arivera/meteor/blk/client/components/Settings.jsx",
+		"/Users/arivera/meteor/blk/client/components/Home.jsx",
+		"/Users/arivera/meteor/blk/client/components/AppNotFound.jsx",
+		"/Users/arivera/meteor/blk/client/components/AppLoading.jsx",
+		"/Users/arivera/meteor/blk/lib/app.browserify.js",
+		"/Users/arivera/meteor/blk/lib/app.browserify.options.json",
+		"/Users/arivera/meteor/blk/client/styles/styles.scss",
+		"/Users/arivera/meteor/blk/client/components/main.html",
+		"/Users/arivera/meteor/blk/client/components/AppBody.jsx",
+		"/Users/arivera/meteor/klnk/client/router.jsx",
+		"/Users/arivera/meteor/klnk/client/styles/styles.scss",
+		"/Users/arivera/meteor/klnk/client/components/AppBody.jsx",
+		"/Users/arivera/meteor/klnk/client/components/Home.jsx",
+		"/Users/arivera/meteor/klnk/client/components/Settings.jsx",
+		"/Users/arivera/meteor/klnk/client/components/AppLoading.jsx",
+		"/Users/arivera/meteor/klnk/client/components/main.html",
+		"/Users/arivera/meteor/klnk/client/components/Other.jsx",
+		"/Users/arivera/meteor/klnk/.meteor/packages",
+		"/Users/arivera/meteor/klnk/packages.json",
+		"/Users/arivera/meteor/klnk/server/server.jsx",
+		"/Users/arivera/meteor/klnk/client/components/AppNotFound.jsx",
+		"/Users/arivera/meteor/klnk/lib/collection.jsx",
+		"/Users/arivera/meteor/klnk/lib/app.browserify.options.json",
+		"/Users/arivera/meteor/klnk/lib/app.browserify.js",
+		"/Users/arivera/meteor/tinder/client/components/AppBody.jsx",
+		"/Users/arivera/meteor/tinder/client/styles/styles.scss",
+		"/Users/arivera/meteor/tinder/client/components/Other.jsx",
+		"/Users/arivera/meteor/tinder/client/components/Settings.jsx",
+		"/Users/arivera/meteor/tinder/client/components/Home.jsx",
+		"/Users/arivera/meteor/tinder/.meteor/packages",
+		"/Users/arivera/meteor/tinder/server/server.jsx",
+		"/Users/arivera/meteor/0.1/app.scss",
+		"/Users/arivera/meteor/0.1/0.1.html",
+		"/Users/arivera/meteor/0.1/0.1.js",
+		"/Users/arivera/meteor/0.1/0.1.css",
+		"/Users/arivera/PW/DEV/PW Redesign/www/201509_Redesign/wp-content/themes/jupiter/template-PLP-player.php",
+		"/Users/arivera/PW/DEV/PW Redesign/www/201509_Redesign/wp-content/themes/jupiter/template-PLP-platform.php",
+		"/Users/arivera/PW/DEV/PW Redesign/www/201509_Redesign/wp-content/themes/jupiter/template-PLP-monetization.php",
+		"/Users/arivera/PW/DEV/PW Redesign/www/201509_Redesign/wp-content/themes/jupiter/template-new-home.php",
+		"/Users/arivera/PW/DEV/PW Redesign/www/201509_Redesign/wp-content/themes/jupiter/template-ALP-publisher.php",
+		"/Users/arivera/PW/DEV/PW Redesign/www/201509_Redesign/wp-content/themes/jupiter/template-ALP-corp.php",
+		"/Users/arivera/PW/DEV/PW Redesign/www/201509_Redesign/wp-content/themes/jupiter/template-ALP-agecy.php",
+		"/Users/arivera/PW/DEV/PW Redesign/www/201509_Redesign/wp-content/themes/jupiter/template-ALP-games.php",
+		"/var/folders/cg/w84hp44j56v8ls3wknpfhzbm0000gn/T/sublime-sftp-browse-1443658513/wpengine_playwire/wp-content/themes/jupiter/js/units.js",
+		"/Users/arivera/PW/DEV/PW Redesign/www/201509_Redesign/wp-content/themes/jupiter/template-countdown.php",
+		"/Users/arivera/PW/DEV/PW Redesign/www/201509_Redesign/wp-content/themes/jupiter/template-PDP-player-2.php",
+		"/var/folders/cg/w84hp44j56v8ls3wknpfhzbm0000gn/T/sublime-sftp-browse-1443476806/WCSR/home/cf992564696079/html/wp-content/themes/Freehold/style.css",
+		"/var/folders/cg/w84hp44j56v8ls3wknpfhzbm0000gn/T/sublime-sftp-browse-1443476844/WCSR/home/cf992564696079/html/wp-content/themes/Freehold/css/custom.css",
+		"/Users/arivera/PW/DEV/PW Redesign/www/201509_Redesign/wp-content/plugins/intense/icons/iconic/new-window.svg",
+		"/var/folders/cg/w84hp44j56v8ls3wknpfhzbm0000gn/T/sublime-sftp-browse-1443452587/wpengine_playwire/wp-content/themes/jupiter/functions.php",
+		"/var/folders/cg/w84hp44j56v8ls3wknpfhzbm0000gn/T/sublime-sftp-browse-1443452554/wpengine_playwire/wp-content/themes/jupiter/framework/functions/general-functions.php",
+		"/var/folders/cg/w84hp44j56v8ls3wknpfhzbm0000gn/T/sublime-sftp-browse-1443445763/wpengine_playwire/wp-content/themes/jupiter/functions.php",
+		"/Users/arivera/PW/DEV/PW Redesign/www/201509_Redesign/wp-content/themes/jupiter/framework/functions/enqueue-front-scripts.php",
+		"/Users/arivera/PW/DEV/PW Redesign/www/201509_Redesign/wp-content/themes/jupiter/template-ALP-app.php",
+		"/var/folders/cg/w84hp44j56v8ls3wknpfhzbm0000gn/T/sublime-sftp-browse-1443446778/wpengine_playwire/wp-content/themes/jupiter/stylesheet/css/styles.css",
+		"/var/folders/cg/w84hp44j56v8ls3wknpfhzbm0000gn/T/sublime-sftp-browse-1443446763/wpengine_playwire/wp-content/themes/jupiter/style.css",
+		"/Users/arivera/PW/DEV/PW Redesign/www/201509_Redesign/wp-content/themes/jupiter/template-PDP-player-1.php",
+		"/Users/arivera/PW/DEV/PW Redesign/www/201509_Redesign/wp-content/themes/jupiter/custom.css",
+		"/var/folders/cg/w84hp44j56v8ls3wknpfhzbm0000gn/T/sublime-sftp-browse-1442930383/wpengine_playwire/wp-content/themes/jupiter/custom.css",
+		"/Users/arivera/PW/DEV/PW Redesign/www/201509_Redesign/wp-content/themes/jupiter/template-PDP-player-5.php",
+		"/Users/arivera/PW/DEV/PW Redesign/www/201509_Redesign/wp-content/themes/jupiter/template-PDP-player-4.php",
+		"/Users/arivera/PW/DEV/PW Redesign/www/201509_Redesign/wp-content/themes/jupiter/template-PDP-player-3.php",
+		"/var/folders/cg/w84hp44j56v8ls3wknpfhzbm0000gn/T/sublime-sftp-browse-1443026120/wpengine_playwire/wp-content/themes/jupiter/functions.php",
+		"/Users/arivera/PW/DEV/PW Redesign/www/201509_Redesign/wp-content/themes/jupiter/template-PDP-player.php",
+		"/Users/arivera/PW/DEV/PW Redesign/www/201509_Redesign/wp-content/plugins/playwire/includes/classes/class-player-post-handler.php",
+		"/Users/arivera/Desktop/New_VG.mrss",
+		"/Users/arivera/Desktop/VG.mrss",
+		"/var/folders/cg/w84hp44j56v8ls3wknpfhzbm0000gn/T/sublime-sftp-browse-1442952804/WCSR/home/cf992564696079/html/wp-content/themes/Freehold/property-listing.php",
+		"/Users/arivera/PW/DEV/PW Redesign/www/201509_Redesign/wp-content/themes/jupiter/stylesheet/less/header.less",
+		"/var/folders/cg/w84hp44j56v8ls3wknpfhzbm0000gn/T/sublime-sftp-browse-1442939304/wpengine_playwire/wp-content/themes/jupiter/stylesheet/less/header-toolbar.less",
+		"/var/folders/cg/w84hp44j56v8ls3wknpfhzbm0000gn/T/sublime-sftp-browse-1442938694/wpengine_playwire/wp-content/themes/jupiter/stylesheet/css/styles.css",
+		"/var/folders/cg/w84hp44j56v8ls3wknpfhzbm0000gn/T/sublime-sftp-browse-1442938674/wpengine_playwire/wp-content/themes/jupiter/style.css",
+		"/Users/arivera/meteor/ionic/both/router.js",
+		"/Users/arivera/meteor/ionic/.meteor/packages",
+		"/Users/arivera/meteor/ionic/client/layout.html",
+		"/Users/arivera/meteor/ionic/mobile-config.js",
+		"/Users/arivera/playwire-support/wp-content/themes/flatbase/article-quick-start-3.php",
+		"/Users/arivera/playwire-support/wp-content/themes/flatbase/template-faq-monetization.php",
+		"/Users/arivera/playwire-support/wp-content/themes/flatbase/template-new-home.php",
+		"/Users/arivera/playwire-support/wp-content/themes/flatbase/article-quick-start-1.php",
+		"/Users/arivera/playwire-support/wp-content/themes/flatbase/article-quick-start-2.php",
+		"/Users/arivera/playwire-support/wp-content/themes/flatbase/taxonomy-article-tag.php",
+		"/Users/arivera/playwire-support/wp-content/themes/flatbase/template-popular-articles.php",
+		"/Users/arivera/playwire-support/wp-admin/custom-background.php",
+		"/Users/arivera/playwire-support/wp-admin/admin-header.php",
+		"/Users/arivera/playwire-support/wp-content/themes/flatbase/template-popular-articles_backup.php",
+		"/Users/arivera/playwire-support/wp-content/themes/flatbase/header.php",
+		"/Users/arivera/playwire-support/wp-content/themes/flatbase/search.php",
+		"/Users/arivera/playwire-support/wp-content/themes/flatbase/template-support-sections.php",
+		"/Users/arivera/playwire-support/wp-content/themes/flatbase/functions.php",
+		"/Users/arivera/playwire-support/wp-content/themes/flatbase/includes/functions.php",
+		"/Users/arivera/playwire-support/wp-content/themes/flatbase/includes/js/general.js",
+		"/Users/arivera/playwire-support/wp-content/themes/flatbase/engine/theming/theming.php",
+		"/Users/arivera/playwire-support/wp-content/themes/flatbase/style.css",
+		"/Users/arivera/playwire-support/wp-content/themes/flatbase/template-dev-resources.php",
+		"/Users/arivera/playwire-support/wp-content/themes/flatbase/engine/theming/functions.php",
+		"/Users/arivera/playwire-support/wp-content/themes/flatbase/header-zeus.php",
+		"/Users/arivera/playwire-support/wp-content/themes/flatbase/template-faq-new.php",
+		"/Users/arivera/playwire-support/wp-content/themes/flatbase/faqText.php",
+		"/Users/arivera/playwire-support/wp-content/themes/flatbase/includes/theming.php",
+		"/Users/arivera/playwire-support/wp-content/themes/flatbase/taxonomy-article-category.php",
+		"/var/folders/cg/w84hp44j56v8ls3wknpfhzbm0000gn/T/sublime-sftp-browse-1442236585/WCSR/home/cf992564696079/html/wp-content/themes/Freehold/property-listing.php",
+		"/var/folders/cg/w84hp44j56v8ls3wknpfhzbm0000gn/T/sublime-sftp-browse-1442201134/WCSR/home/cf992564696079/html/wp-content/themes/Freehold/style.css",
+		"/Users/arivera/playwire-support/wp-content/themes/flatbase/custom.css",
+		"/Users/arivera/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/WCSR",
+		"/var/folders/cg/w84hp44j56v8ls3wknpfhzbm0000gn/T/sublime-sftp-browse-1442092178/WCSR/home/cf992564696079/html/wp-content/themes/Freehold/style.css",
+		"/var/folders/cg/w84hp44j56v8ls3wknpfhzbm0000gn/T/sublime-sftp-browse-1442092548/WCSR/home/cf992564696079/html/wp-content/themes/Freehold/functions.php",
+		"/var/folders/cg/w84hp44j56v8ls3wknpfhzbm0000gn/T/sublime-sftp-browse-1442093620/WCSR/home/cf992564696079/html/wp-content/themes/Freehold/property-listing.php",
+		"/var/folders/cg/w84hp44j56v8ls3wknpfhzbm0000gn/T/sublime-sftp-browse-1442093769/WCSR/home/cf992564696079/html/wp-content/themes/Freehold/single-property.php",
+		"/Users/arivera/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/managed_WP",
+		"/var/folders/cg/w84hp44j56v8ls3wknpfhzbm0000gn/T/sublime-sftp-browse-1442093865/WCSR/home/cf992564696079/html/wp-content/themes/Freehold/apply-page.php",
+		"/var/folders/cg/w84hp44j56v8ls3wknpfhzbm0000gn/T/sublime-sftp-browse-1442236518/WCSR/home/cf992564696079/html/wp-content/themes/Freehold/single-property.php",
+		"/Users/arivera/webUI",
+		"/var/folders/cg/w84hp44j56v8ls3wknpfhzbm0000gn/T/sublime-sftp-browse-1442200957/WCSR/home/cf992564696079/html/wp-content/themes/Freehold/css/custom.css",
+		"/var/folders/cg/w84hp44j56v8ls3wknpfhzbm0000gn/T/sublime-sftp-browse-1442200993/WCSR/home/cf992564696079/html/wp-content/themes/Freehold/js/plugins.js"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 109.0,
+		"where_history":
+		[
+			"/Users/arivera/playwire-support,/Users/arivera/PW/DEV/PW Redesign/www/201509_Redesign",
+			"/Users/arivera/playwire-support",
+			"/Volumes/_box/Google Drive/PW/DEV/PW Support/www/wp_support/wp-content/themes",
+			"/Users/arivera/Google Drive/PW/DEV/PW Support/www/wp_support/wp-content/",
+			"/Users/arivera/Google Drive/PW/DEV/PW Support/www/wp_support/wp-content/plugins/phoenix-wordpress",
+			"",
+			"/private/var/folders/cg/w84hp44j56v8ls3wknpfhzbm0000gn/T/sublime-sftp-browse-1433339720/sdrichman_managed_wp/home/n2a12627882737/html/wp-content/themes/indus",
+			"/Users/arivera/Google Drive/PW/DEV/PW Support/www/wp_support/wp-content/plugins/phoenix-wordpress",
+			"/Users/arivera/Google Drive/PW/DEV/PW Support/www/wp_support/wp-content/plugins/phoenix-playwire",
+			"/Users/arivera/Google Drive/PW/DEV/PW Support/www/wp_support/wp-content/plugins/playwire"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tap",
+			"e5e5e5",
+			"headline",
+			"5",
+			"#;",
+			"class",
+			"className",
+			"pad-40-20",
+			"wordpress",
+			"track",
+			"stream",
+			"custom",
+			"html5",
+			"wordpress",
+			"track",
+			"stream",
+			"custom",
+			"pad-40-20",
+			"html5",
+			"wordpress",
+			"track",
+			"stream",
+			"custom",
+			", 'in'",
+			", autoAlpha:0",
+			"left",
+			"hey",
+			"left",
+			"her",
+			"image",
+			".(this)",
+			" heroAlp",
+			"alp",
+			".6",
+			"fore",
+			"mk-animate-element fade-in",
+			"2",
+			"50, 50, 50",
+			"0.75",
+			"2",
+			"matrix(1, -0.3, 0, 1, 0, 0)",
+			"100",
+			"50",
+			"1",
+			"4",
+			"30",
+			"inset ",
+			"15",
+			"<div class=\"clearboth\"></div>",
+			"trans",
+			"white",
+			"h1.welcome",
+			"/a",
+			"h1",
+			"h2",
+			"span",
+			"h1.welcome span.tag-change a.active",
+			"</span>",
+			"<span class=\"hero-white\">",
+			"<h1>",
+			" MADE SIMPLE",
+			"/a",
+			"A",
+			"a",
+			"A",
+			"a",
+			"btn outer",
+			"welcome",
+			"DESC",
+			"width",
+			"h2",
+			"font-famil",
+			"fonts.",
+			"#515151",
+			"#000555",
+			"h2",
+			"ffffff",
+			"ackground: #999;",
+			"countdown",
+			"align=\"left\" margin_bottom=\"0\"",
+			"milestone",
+			"before",
+			"after",
+			"0.4",
+			"4",
+			"255,255,255",
+			"right",
+			"20%",
+			"fa-",
+			"&",
+			">/",
+			".header-logo",
+			"header-logo",
+			"max-width: 1000px",
+			"screen",
+			"1000px",
+			"*",
+			";\n",
+			"left",
+			"dev-link",
+			"dev",
+			"300 is the gap between delays, tweek it based on visual preference",
+			"!importanddt",
+			"panel-collapse",
+			"color: #444 !important;",
+			"title_background_color=\"#82c4e6\" title_font_color=\"#ffffff\" icon_color=\"#ffffff\" content_background_color=\"#f1f1f1\"",
+			"</em>",
+			"<em>",
+			"<p>",
+			"</p>",
+			"</li>",
+			"</strong>",
+			"<strong>",
+			"<li class=\"list-line\">",
+			",",
+			"content",
+			"content  ",
+			".=",
+			"$output =",
+			"roboto",
+			"newer support",
+			"200",
+			"54",
+			"0.7",
+			"52,73,94",
+			"80",
+			"qs",
+			".2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&amp;\n",
+			"-\n",
+			"_self",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								996,
+								996
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "html",
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1306.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2125,
+								2125
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".shape-1{",
+							"incomplete_sync": null,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2573.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.425553296505,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 140.0
+	},
+	"pinned_build_system": "",
+	"project": "gsap.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"http",
+				".meteor/local/build/programs/server/npm/cosmos_browserify/node_modules/browserify/node_modules/stream-http/test/node/http-browserify.js"
+			],
+			[
+				"appbo",
+				"client/components/AppBody.jsx"
+			],
+			[
+				"alpcorp",
+				"wp-content/themes/jupiter/template-ALP-corp.php"
+			],
+			[
+				"alpapp",
+				"wp-content/themes/jupiter/template-ALP-app.php"
+			],
+			[
+				"alp",
+				"wp-content/themes/jupiter/template-ALP-publisher.php"
+			],
+			[
+				"plpmon",
+				"wp-content/themes/jupiter/template-PLP-monetization.php"
+			],
+			[
+				"plp",
+				"wp-content/themes/jupiter/template-PLP-platform.php"
+			],
+			[
+				"plpplayer",
+				"wp-content/themes/jupiter/template-PLP-player.php"
+			],
+			[
+				"newhome",
+				"wp-content/themes/jupiter/template-new-home.php"
+			],
+			[
+				"alpagec",
+				"wp-content/themes/jupiter/template-ALP-agecy.php"
+			],
+			[
+				"alpgame",
+				"wp-content/themes/jupiter/template-ALP-games.php"
+			],
+			[
+				"alpplat",
+				"wp-content/themes/jupiter/template-PLP-platform.php"
+			],
+			[
+				"pdp",
+				"wp-content/themes/jupiter/template-PDP-player-2.php"
+			],
+			[
+				"plppla",
+				"wp-content/themes/jupiter/template-PLP-platform.php"
+			],
+			[
+				"plpplay",
+				"wp-content/themes/jupiter/template-PLP-player.php"
+			],
+			[
+				"plpla",
+				"wp-content/themes/jupiter/template-PLP-player.php"
+			],
+			[
+				"plppl",
+				"wp-content/themes/jupiter/template-PLP-player.php"
+			],
+			[
+				"plpmo",
+				"wp-content/themes/jupiter/template-PLP-monetization.php"
+			],
+			[
+				"player",
+				"wp-content/themes/jupiter/template-PLP-player.php"
+			],
+			[
+				"new",
+				"wp-content/plugins/intense/icons/iconic/new-window.svg"
+			],
+			[
+				"corp",
+				"wp-content/themes/jupiter/template-ALP-corp.php"
+			],
+			[
+				"custom.",
+				"wp-content/themes/jupiter/custom.css"
+			],
+			[
+				"moneti",
+				"wp-content/themes/jupiter/template-PLP-monetization.php"
+			],
+			[
+				"player-5",
+				"wp-content/themes/jupiter/template-PDP-player-5.php"
+			],
+			[
+				"player-3",
+				"wp-content/themes/jupiter/template-PDP-player-3.php"
+			],
+			[
+				"player-4",
+				"wp-content/themes/jupiter/template-PDP-player-4.php"
+			],
+			[
+				"pdpplay",
+				"wp-content/themes/jupiter/template-PDP-player-1.php"
+			],
+			[
+				"productpa",
+				"wp-content/themes/jupiter/template-product-page.php"
+			],
+			[
+				"detailpage",
+				"wp-content/themes/jupiter/template-product-detail-page.php"
+			],
+			[
+				"article-cu",
+				"wp-content/themes/flatbase/article-custom-player.php"
+			],
+			[
+				"gen",
+				"wp-content/themes/flatbase/includes/js/general.js"
+			],
+			[
+				"cus",
+				"wp-admin/custom-background.php"
+			],
+			[
+				"popular",
+				"wp-content/themes/flatbase/template-popular-articles_backup.php"
+			],
+			[
+				"taxo",
+				"wp-content/themes/flatbase/taxonomy-article-tag.php"
+			],
+			[
+				"popula",
+				"wp-content/themes/flatbase/template-popular-articles.php"
+			],
+			[
+				"function",
+				"wp-content/themes/flatbase/functions.php"
+			],
+			[
+				"head",
+				"wp-content/themes/flatbase/header.php"
+			],
+			[
+				"header",
+				"wp-content/themes/flatbase/header.php"
+			],
+			[
+				"sear",
+				"wp-content/themes/flatbase/search.php"
+			],
+			[
+				"supportsec",
+				"wp-content/themes/flatbase/template-support-sections.php"
+			],
+			[
+				"taxon",
+				"wp-content/themes/flatbase/taxonomy-article-tag.php"
+			],
+			[
+				"templatesec",
+				"wp-content/themes/flatbase/template-support-sections.php"
+			],
+			[
+				"newhom",
+				"wp-content/themes/flatbase/template-new-home.php"
+			],
+			[
+				"gener",
+				"wp-content/themes/flatbase/includes/js/general.js"
+			],
+			[
+				"style",
+				"wp-content/themes/flatbase/style.css"
+			],
+			[
+				"sea",
+				"wp-content/themes/flatbase/search.php"
+			],
+			[
+				"taxa",
+				"wp-content/themes/flatbase/taxonomy-article-category.php"
+			],
+			[
+				"general",
+				"wp-content/themes/flatbase/includes/js/general.js"
+			],
+			[
+				"tag_ba",
+				"wp-content/themes/flatbase/taxonomy-article-tag_backup.php"
+			],
+			[
+				"genera",
+				"wp-content/themes/flatbase/includes/js/general.js"
+			],
+			[
+				"in-game",
+				"wp-content/themes/flatbase/article-in-game.php"
+			],
+			[
+				"sty",
+				"wp-content/themes/flatbase/style.css"
+			],
+			[
+				"article-ca",
+				"wp-content/themes/flatbase/taxonomy-article-category.php"
+			],
+			[
+				"serach",
+				"wp-content/themes/flatbase/search.php"
+			],
+			[
+				"adt",
+				"wp-content/themes/flatbase/article-adTags.php"
+			],
+			[
+				"article-y",
+				"wp-content/themes/flatbase/article-youtube.php"
+			],
+			[
+				"wp-con",
+				"wp-config.php"
+			],
+			[
+				"article",
+				"wp-content/themes/flatbase/article-password.php"
+			],
+			[
+				"article-api",
+				"wp-content/themes/flatbase/article-new-api.php"
+			],
+			[
+				"custom",
+				"wp-content/themes/flatbase/custom.css"
+			],
+			[
+				"articleacc",
+				"wp-content/themes/flatbase/article-account-types.php"
+			],
+			[
+				"article-",
+				"wp-content/themes/flatbase/article-password.php"
+			],
+			[
+				"stye",
+				"wp-content/themes/flatbase/style.css"
+			],
+			[
+				"styl",
+				"wp-content/themes/flatbase/style.css"
+			],
+			[
+				"serac",
+				"wp-content/themes/flatbase/search.php"
+			],
+			[
+				"single",
+				"wp-content/themes/flatbase/single-article.php"
+			],
+			[
+				"article-ap",
+				"wp-content/themes/flatbase/article-new-api.php"
+			],
+			[
+				"api-d",
+				"wp-content/themes/flatbase/article-new-api-docs.php"
+			],
+			[
+				"conifg",
+				"wp-config.php"
+			],
+			[
+				"config",
+				"export/wp-config.php"
+			],
+			[
+				"sin",
+				"wp-content/themes/flatbase/single-article.php"
+			],
+			[
+				"single-a",
+				"wp-content/themes/flatbase/single-article.php"
+			],
+			[
+				"faqte",
+				"wp-content/themes/flatbase/faqText.php"
+			],
+			[
+				"api-e",
+				"api-sample-jquery.html"
+			],
+			[
+				"article-ad",
+				"wp-content/themes/flatbase/article-adTags.php"
+			],
+			[
+				"faqtet",
+				"wp-content/themes/flatbase/faqText.php"
+			],
+			[
+				"faqtext",
+				"wp-content/themes/flatbase/faqText.php"
+			],
+			[
+				"faqtex",
+				"wp-content/themes/flatbase/faqText.php"
+			],
+			[
+				"website",
+				"wp-content/themes/flatbase/article-websites.php"
+			],
+			[
+				"ana",
+				"wp-content/themes/flatbase/article-analytics.php"
+			],
+			[
+				"anal",
+				"wp-content/themes/flatbase/article-analytics.php"
+			],
+			[
+				"account",
+				"wp-content/themes/flatbase/article-account-types.php"
+			],
+			[
+				"heade",
+				"wp-content/themes/flatbase/header.php"
+			],
+			[
+				"single-",
+				"wp-content/themes/flatbase/single-article.php"
+			],
+			[
+				"new-home",
+				"wp-content/themes/flatbase/template-new-home.php"
+			],
+			[
+				"faq",
+				"wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/faq.php"
+			],
+			[
+				"singleart",
+				"wp-content/themes/flatbase/single-article.php"
+			],
+			[
+				"gene",
+				"wp-content/themes/flatbase/includes/js/general.js"
+			],
+			[
+				"sing",
+				"wp-content/themes/flatbase/single-article.php"
+			],
+			[
+				"custom.css",
+				"wp-content/themes/flatbase/custom.css"
+			],
+			[
+				"videos",
+				"wp-content/themes/flatbase/template-faq-videos.php"
+			],
+			[
+				"tfatx",
+				"wp-content/themes/flatbase/faqText.php"
+			],
+			[
+				"categorei",
+				"wp-content/themes/flatbase/includes/widgets/widget-article-categories.php"
+			],
+			[
+				"single-art",
+				"wp-content/themes/flatbase/single-article.php"
+			],
+			[
+				"widgetca",
+				"wp-content/themes/flatbase/includes/widgets/widget-article-categories.php"
+			],
+			[
+				"general.js",
+				"wp-content/themes/flatbase/includes/js/general.js"
+			],
+			[
+				"tag",
+				"wp-admin/js/tags.js"
+			],
+			[
+				"",
+				"wp-content/themes/flatbase/style.css"
+			],
+			[
+				"pubmatic",
+				"wp-content/plugins/custom-bulkquick-edit/includes/libraries/aihrus-framework/includes/libraries/parsedown/test/data/automatic_link.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 754.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 135.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
